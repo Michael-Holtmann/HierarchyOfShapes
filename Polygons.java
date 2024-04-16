@@ -28,5 +28,7 @@ public class Polygons extends Shape
     public String getColor(){
         return color;
     }
+
+  
     
 }

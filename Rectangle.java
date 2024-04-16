@@ -11,7 +11,9 @@ public class Rectangle extends Parallelogram
     public void   setLength( double l1)    { this.l = l;     }
     public double getWidth()               { return w;  }
     public double getLength()              { return l; }
-    public double getArea()                { return l*w; }
+    
+  @Override
+  public double Area()                { return l*w; }
 
     public String toString() 
     { return String.format("%s Rectangle size=(%.2f by %.2f)", super.getColor(), l, w); }
