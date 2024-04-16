@@ -1,10 +1,4 @@
 
-/**
- * Write a description of class Hexagon here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Hexagon extends Polygons
 {
     // instance variables - replace the example below with your own

@@ -1,11 +1,6 @@
 
-/**
- * Write a description of class IsoscelesTrapezoid here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
-public class IsoscelesTrapezoid
+
+public class IsoscelesTrapezoid extends Trapezoid
 {
     // instance variables - replace the example below with your own
     private int x;
